@@ -9,7 +9,7 @@ namespace schevgeny\yii\db\bitmask;
  * @copyright Copyright (c) 2019, TagShake Ltd.
  * @license http://opensource.org/licenses/MIT
  */
-abstract class Bitmask extends \app\components\db\SingletonActiveRecord
+abstract class Bitmask extends SingletonActiveRecord
 {
     private $_flags = null;
     private $_flagLabels = null;
