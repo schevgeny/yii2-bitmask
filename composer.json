@@ -1,0 +1,23 @@
+{
+    "name": "schevgeny/yii2/db/bitmask",
+    "description": "Yii2 db bitmask",
+    "type": "library",
+    "keywords": ["yii2", "db", "bitmask"],
+    "license": "MIT",
+    "authors": [{
+        "name": "schevgeny",
+        "email": "schevgeny@gmail.com"
+    }],
+    "support": {
+        "issues": "https://github.com/schevgeny/yii2-bitmask/issues",
+        "source": "https://github.com/schevgeny/yii2-bitmask"
+    },
+    "autoload": {
+        "psr-4": {
+            "schevgeny\\yii\\db\\bitmask\\": "./src"
+        }
+    },
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
