@@ -1,5 +1,5 @@
 {
-    "name": "schevgeny/yii2/db/bitmask",
+    "name": "schevgeny/yii2-bitmask",
     "description": "Yii2 db bitmask",
     "type": "library",
     "keywords": ["yii2", "db", "bitmask"],
