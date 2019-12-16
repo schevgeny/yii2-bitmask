@@ -3,6 +3,8 @@
     "description": "Yii2 db bitmask",
     "type": "library",
     "keywords": ["yii2", "db", "bitmask"],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "license": "MIT",
     "authors": [{
         "name": "schevgeny",
@@ -16,8 +18,5 @@
         "psr-4": {
             "schevgeny\\yii\\db\\bitmask\\": "./src"
         }
-    },
-    "require": {
-        "yiisoft/yii2": "*"
     }
 }
